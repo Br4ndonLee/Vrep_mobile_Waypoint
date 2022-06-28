@@ -1,4 +1,4 @@
-# repo1
+# Vrep mobile robot waypoint
 
-Hello, I'm Brandon. This is my practice repository.
-Good to see you and good bye
+I used Coppeliasim V-REP Pro 3.6.2 version
+and Pioneer p3dx
